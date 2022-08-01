@@ -1,6 +1,7 @@
 # Asal Sayıları Kullanarak Parkur Uygulaması
 
-# Uygulama Amacı: C dilini kullanarak asal sayılar ile bir kontrol mantığı oluşturmak ve dosya üzerinde yazma gibi işlemler yaparak basit bir c uygulaması tasarlamak.
+# Uygulama Amacı:
+- C dilini kullanarak asal sayılar ile bir kontrol mantığı oluşturmak ve dosya üzerinde yazma gibi işlemler yaparak basit bir c uygulaması tasarlamak.
 
 # Uygulama gereksinimleri:
 
