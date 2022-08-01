@@ -1,0 +1,15 @@
+--YARISMA BASLADI--
+yarismaci HP:100 
+Yarismaci 14. metreye kadar engelle karsilasmadi. 
+14. metrede engel var.100 ile 14 aralarinda asal degildir. 
+yarismaci HP:100 
+Yarismaci 15. metreye kadar engelle karsilasmadi. 
+15. metrede engel var.100 ile 15 aralarinda asal degildir. 
+yarismaci HP:100 
+Yarismaci 18. metreye kadar engelle karsilasmadi. 
+18. metrede engel var.100 ile 18 aralarinda asal degildir. 
+yarismaci HP:100 
+Yarismaci 42. metreye kadar engelle karsilasmadi. 
+42. metrede engel var.100 ile 42 aralarinda asal degildir. 
+yarismaci HP:100 
+TEBRIKLER !!! YARISMAYI 100 HP ILE BITIRDINIZ
