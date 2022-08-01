@@ -1,0 +1,1 @@
+# Asal_sayi_Kullanarak_Parkur_Uygulamas-
